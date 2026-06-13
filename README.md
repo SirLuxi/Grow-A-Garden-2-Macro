@@ -1,6 +1,6 @@
 <div align="center">
 
-# # 🌱 Grow A Garden 2 Macro
+#  🌱 Grow A Garden 2 Macro
 
 
 
