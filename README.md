@@ -3,7 +3,7 @@
 #  🌱 Grow A Garden 2 Macro
 
 [![Version](https://img.shields.io/badge/Version-v1.8.0-5a8aff?style=for-the-badge)](../../releases/latest)
-[![Downloads](https://img.shields.io/badge/Downloads-3.8k-success?style=for-the-badge&logo=github)](../../releases/latest)
+[![Downloads](https://img.shields.io/badge/Downloads-4.2k-success?style=for-the-badge&logo=github)](../../releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)](../../releases/latest)
 
 </div>
